@@ -1,0 +1,8 @@
+com/skillsunion/shoppingcartapi/controller/RequestBodyTempData.class
+com/skillsunion/shoppingcartapi/controller/CartController.class
+com/skillsunion/shoppingcartapi/ShoppingcartapiApplication.class
+com/skillsunion/shoppingcartapi/repository/CartRepository.class
+com/skillsunion/shoppingcartapi/repository/CatalogueRepository.class
+com/skillsunion/shoppingcartapi/controller/CatalogueController.class
+com/skillsunion/shoppingcartapi/entity/Catalogue.class
+com/skillsunion/shoppingcartapi/entity/Cart.class

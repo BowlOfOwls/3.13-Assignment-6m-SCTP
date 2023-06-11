@@ -1,0 +1,7 @@
+/root/work/3module/assignments/6m-software-3.13-spring-jpa/src/shoppingcartapi/src/main/java/com/skillsunion/shoppingcartapi/repository/CatalogueRepository.java
+/root/work/3module/assignments/6m-software-3.13-spring-jpa/src/shoppingcartapi/src/main/java/com/skillsunion/shoppingcartapi/entity/Catalogue.java
+/root/work/3module/assignments/6m-software-3.13-spring-jpa/src/shoppingcartapi/src/main/java/com/skillsunion/shoppingcartapi/ShoppingcartapiApplication.java
+/root/work/3module/assignments/6m-software-3.13-spring-jpa/src/shoppingcartapi/src/main/java/com/skillsunion/shoppingcartapi/repository/CartRepository.java
+/root/work/3module/assignments/6m-software-3.13-spring-jpa/src/shoppingcartapi/src/main/java/com/skillsunion/shoppingcartapi/controller/CartController.java
+/root/work/3module/assignments/6m-software-3.13-spring-jpa/src/shoppingcartapi/src/main/java/com/skillsunion/shoppingcartapi/entity/Cart.java
+/root/work/3module/assignments/6m-software-3.13-spring-jpa/src/shoppingcartapi/src/main/java/com/skillsunion/shoppingcartapi/controller/CatalogueController.java
